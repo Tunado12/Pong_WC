@@ -1,0 +1,1 @@
+image_index ++;//troca de frame

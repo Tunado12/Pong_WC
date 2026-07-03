@@ -1,0 +1,1 @@
+audio_play_sound(snd_tada, 0, false); //tadaaaa
