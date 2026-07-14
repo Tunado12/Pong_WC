@@ -1,4 +1,3 @@
-This is my first game made in GameMaker with the help of a real instructor. 
-It’s a Pong game themed around the 2026 World Cup. Since I’m Brazilian, the paddles are customized to feature only the Brazilian and Argentine national teams. 
+Este é o meu primeiro jogo criado no GameMaker com a ajuda de um instrutor de verdade. É um jogo de Pong com o tema da Copa do Mundo de 2026. As raquetes foram personalizadas para apresentar as seleções do Brasil e da Argentina.
 
-Special thanks to the NoNeClass course and instructor Isaque.
+Um agradecimento especial ao curso NoNeClass e ao instrutor Isaque.
